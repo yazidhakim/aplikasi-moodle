@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1704129816 source:d:\document y\tubes\tubes\main.cpp
+	"Tubes.h"
+	"Tubes.cpp"
+
+1704208762 d:\document y\tubes\tubes\tubes.h
+	<iostream>
+	<string>
+
+1704208760 d:\document y\tubes\tubes\tubes.cpp
+	"Tubes.H"
+	<string>
+
+1704333561 source:c:\users\acer\documents\tubesfix\tubes\tubes\main.cpp
+	"Tubes.h"
+	"Tubes.cpp"
+
+1704208764 c:\users\acer\documents\tubesfix\tubes\tubes\tubes.h
+	<iostream>
+	<string>
+
+1704337977 c:\users\acer\documents\tubesfix\tubes\tubes\tubes.cpp
+	"Tubes.H"
+	<string>
+
+1704333561 source:c:\users\acer\documents\tubesfixbanget\tubes\main.cpp
+	"Tubes.h"
+	"Tubes.cpp"
+
+1704487217 c:\users\acer\documents\tubesfixbanget\tubes\tubes.h
+	<iostream>
+	<string>
+
+1704488724 c:\users\acer\documents\tubesfixbanget\tubes\tubes.cpp
+	"Tubes.H"
+	<string>
+
+1704333561 source:e:\data sciense\tubes\tubes\main.cpp
+	"Tubes.h"
+	"Tubes.cpp"
+
+1704638938 e:\data sciense\tubes\tubes\tubes.h
+	<iostream>
+	<string>
+
+1704640318 e:\data sciense\tubes\tubes\tubes.cpp
+	"Tubes.H"
+	<string>
+
+1704962419 source:d:\document y\tubeshampirfix\tubes\main.cpp
+	"tubes.h"
+	"Tubes.cpp"
+
+1705022243 d:\document y\tubeshampirfix\tubes\tubes.h
+	<iostream>
+	<string>
+
+1705022271 d:\document y\tubeshampirfix\tubes\tubes.cpp
+	"tubes.h"
+	<utility>
+
